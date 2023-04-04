@@ -1,6 +1,6 @@
 ***
 ### Description
-Journal program in python3 for the universality of students in subjects.
+Journal program in python for the universality of students in subjects.
 
 You must first download the python module for data transformation: **PrettyTable**.
 
